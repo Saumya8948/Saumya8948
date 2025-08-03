@@ -1,83 +1,105 @@
-# Saumya Gupta - Network & Telecom Engineer
+<h1 align="center">✨ Saumya Gupta ✨</h1>
+<h3 align="center">Network Engineer | Telecom Specialist | Data Enthusiast</h3>
 
-👋 Hi there! I'm **Saumya Gupta**, a results-driven Network Engineer with experience in telecom operations, incident management, data analysis, and automation. I specialize in optimizing multi-vendor wireless networks and developing innovative solutions using tools like Tableau, SQL, Python, and GCP.
+<p align="center">
+  <a href="mailto:saumyaguptaatr@gmail.com"><img src="https://img.shields.io/badge/Email-saumyaguptaatr@gmail.com-blue?style=flat&logo=gmail"></a>
+  <a href="https://linkedin.com/in/saumya-gupta-903186204"><img src="https://img.shields.io/badge/LinkedIn-Saumya_Gupta-blue?style=flat&logo=linkedin"></a>
+  <img src="https://img.shields.io/badge/Location-India-%23FF5733?style=flat&logo=googlemaps">
+</p>
 
 ---
 
-## 📌 Professional Summary
+## 🔍 About Me
 
-- Experienced in **KPI analysis**, **RCA**, **incident management**, and **SLA compliance**.
-- Proficient in **network monitoring**, **RF optimization**, and **automation** using SQL & Python.
-- Adept at creating **interactive dashboards** using Tableau and Looker Studio.
-- Exposure to **2G/3G/4G/5G technologies**, including LTE & 5G NR protocols.
-- Strong communication and collaboration skills across cross-functional teams.
+I am a **results-driven Network Engineer** with a solid foundation in **telecom systems**, **RF optimization**, **data analysis**, and **automation**. With hands-on experience in **2G/3G/4G/5G technologies**, I aim to bridge the gap between operational efficiency and technological innovation in telecom.
+
+> 💡 _"Turning network complexities into simplified, data-driven solutions!"_
 
 ---
 
 ## 💼 Experience
 
-### 🔹 Software Engineer | Tata Consultancy Services (TCS)  
-**July 2025 – Present**  
-- Supporting **Rogers Telecom (Canada)** in application maintenance, bug fixing, and service optimization.
-- Engaged in system integration and telecom service enhancement.
+### 🏢 **Software Engineer**  
+**Tata Consultancy Services (TCS)** | _July 2025 – Present_  
+📍 Project: **Rogers Telecom – Canada**
 
-### 🔹 Network Engineer | Ericsson Global India Pvt. Ltd.  
-**November 2023 – June 2025**  
-- Performed **KPI & traffic analysis**, optimized network parameters, and resolved RF issues.
-- Automated routine tasks using **SQL**, improving efficiency and data accuracy.
-- Built and maintained customer relationships while collaborating with NPI, FO, and optimization teams.
+- Supporting enterprise telecom applications through maintenance and enhancement.
+- Managing performance bottlenecks, incidents, and implementing service improvements.
+- Collaborating with global teams for seamless delivery and system reliability.
 
 ---
 
-## 🛠️ Technical Skills
+### 🛰️ **Network Engineer**  
+**Ericsson Global India Pvt. Ltd.** | _Nov 2023 – June 2025_
 
-**Networking**: Routing & Switching | Wireless Networks | VPN | CCNA  
-**Telecom**: LTE Stack, IMS, VoLTE, RAN, OSS, Incident Management  
-**Tools**: Tableau | Looker Studio | Grafana | NetAct | ENM | Mist | ITSM | GCP  
-**Protocols**: NAS | RRC | MAC | RLC | SIP | SCTP | TCP | UDP  
-**Scripting & Programming**: SQL | Python | C  
-**Others**: SLA Management | Project Reporting | Communication Skills  
+- 📊 Performed **KPI analysis**, **RCA**, and **incident resolution** to ensure SLA compliance.
+- 🚀 Designed RF solutions and optimized traffic flows for multi-vendor (2G/3G/4G/5G) networks.
+- 🤖 Automated workflows using **SQL** and built **interactive dashboards** using **Tableau** and **Looker Studio**.
+- 🤝 Trained Graduate Engineer Trainees and collaborated across departments like NPI, NPO, and FO.
+
+---
+
+## ⚙️ Technical Toolbox
+
+| Category            | Tools & Technologies |
+|---------------------|----------------------|
+| **Networking**       | Routing, Switching, VPN, CCNA |
+| **Visualization**    | Tableau, Looker Studio, Grafana |
+| **Telecom Tools**    | NetAct, ENM, Mist, ITSM, Atoll |
+| **Programming**      | SQL, Python (basic), C |
+| **Protocols**        | RRC, NAS, SIP, SCTP, TCP/UDP |
+| **Testing Tools**    | XCAL, QXDM, Wireshark |
+| **Cloud & Infra**    | GCP, SLA Management |
+| **Domains**          | LTE, 5G NR, VoLTE, IMS, Core Interfaces |
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech)**  
-Electronics and Communication Engineering  
-*Dr. RML Awadh University, IET Ayodhya*  
-GPA: 80.16%
+🎓 **B.Tech in Electronics & Communication Engineering**  
+📍 *Dr. RML Awadh University, IET Ayodhya*  
+📈 GPA: **80.16%**
 
 ---
 
-## 📜 Certifications
+## 🧾 Certifications
 
-- **Cloud Computing and Distributed Systems** – NPTEL (Elite)
-- **Computer Networks and Internet Protocol** – NPTEL (Elite)
-
----
-
-## 📚 Projects & Research
-
-**📄 Research Paper:**  
-*A Compact Wideband Monopole Antenna with DGS for WIMAX/WLAN/5G Applications*  
-Published in *Electronics Engineering Journal*, Vol. 13, Issue 2 (2023).
+- 🟩 **Cloud Computing and Distributed Systems** – NPTEL (Elite)
+- 🟩 **Computer Networks and Internet Protocol** – NPTEL (Elite)
 
 ---
 
-## 💼 Internships & Training
+## 📚 Research & Projects
 
-- **ITI Limited, Mankapur** – Hands-on telecom hardware experience  
-- **Uttar Pradesh Power Corporation Limited** – Network operations & infrastructure
+📄 **Published Paper**  
+> _"A Compact Wideband Monopole Antenna with DGS for WIMAX/WLAN/5G Applications"_  
+> Published in: *Electronics Engineering Journal* – Vol. 13, Issue 2, 2023
 
----
-
-## 📫 Contact
-
-- 📧 Email: [saumyaguptaatr@gmail.com](mailto:saumyaguptaatr@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/saumya-gupta-903186204](https://linkedin.com/in/saumya-gupta-903186204)
+📍 **Project Highlights**  
+- Designed & optimized antennas for wideband applications.
+- Conducted simulations and layout designs for 5G and WiMAX coverage.
 
 ---
 
-> 🔍 Always learning. Always evolving. Passionate about telecom innovation and national service.
+## 🛠️ Internships & Training
+
+- 🏢 **ITI Limited, Mankapur** – Worked on telecom hardware setup & diagnostics.
+- ⚡ **UP Power Corporation Ltd.** – Gained experience in infrastructure maintenance & network operations.
+
+---
+
+## 📫 Let's Connect!
+
+- 📧 **Email**: [saumyaguptaatr@gmail.com](mailto:saumyaguptaatr@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/saumya-gupta-903186204](https://linkedin.com/in/saumya-gupta-903186204)
+
+---
+
+<p align="center">
+  <b>“Stay curious, stay connected.”</b><br>
+  <em>🔗 Building smarter, faster, and more reliable networks!</em>
+</p>
+
+
 
 
